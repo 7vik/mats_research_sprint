@@ -1,5 +1,7 @@
-# geometry of truth
+# git clones done the wrong waay
 geometry_of_truth/geometry-of-truth/*
+rep_eng/representation-engineering/*
+local_tf_lens/TransformerLens/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
