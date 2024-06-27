@@ -1,4 +1,3 @@
-# mats_research_sprint
-Some experiments in mechanistic interpretability as part of the 2 week research sprint by James Dao and Satvik Golechha.
+# Challenges in Current Frameworks to Study Model Representations
 
-Awesome that works. Now let's try to push this to the remote repo.
+Paper link: https://arxiv.org/abs/2402.03855
